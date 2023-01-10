@@ -3,7 +3,7 @@ contacts = dict()
 while True:
     print('\nТекущие контакты на телефоне:')
     for i in contacts:
-        print(i, contacts[i], '\t')
+        print(i, contacts[i])
     name = input('\nВведите имя: ')
     number = int(input('Введите номер телефона: '))
     contacts[name] = number
