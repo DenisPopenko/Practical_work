@@ -11,8 +11,14 @@ incomes = {
 }
 
 print('Общий доход за год составил {} рублей'.format(sum(incomes.values())))
-min_income = min(incomes.values())
-for i in incomes.values() and incomes.keys():
-    if i == min_income:
-        print(i)
-print('Самый маленький доход у {}. Он составляет {} рублей'.format(), min_income))
+
+def get_key(d):
+    min_d = min(d.values())
+    for k, v in d.items():
+        if v == min_d:
+            return(k)
+
+print('Самый маленький доход у {}. Он составляет {} рублей'.
+      format(get_key(incomes), min(incomes.values())))
+incomes.pop(get_key(incomes))
+print('Итоговый словарь:', incomes)
