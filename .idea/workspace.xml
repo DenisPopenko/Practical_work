@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/19.3 Вложенные словари и значения по умолчанию в get/Задача 1. Член семьи.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.3 Вложенные словари и значения по умолчанию в get/Задача 2. Игроки.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.4 Множества. Функция set/Задача 1. Пунктуация.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.4 Множества. Функция set/Задача 2. Семинар.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19.4 Множества. Функция set/Задача 3. Различные цифры.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673493564006</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial commit">
+      <created>1673504747795</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673504747795</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
