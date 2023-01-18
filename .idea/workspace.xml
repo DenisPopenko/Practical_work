@@ -5,9 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/19.4 Множества. Функция set/Задача 1. Пунктуация.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.4 Множества. Функция set/Задача 2. Семинар.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.4 Множества. Функция set/Задача 3. Различные цифры.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.2 Кортежи/Задача 1. Создание кортежей.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.2 Кортежи/Задача 2. Цилиндр.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.2 Кортежи/Задача 3. Неправильный код.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.3 Функция enumerate. Перебор нескольких значений/Задача 1. Саботаж!.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.3 Функция enumerate. Перебор нескольких значений/Задача 2. Словари из списков.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.3 Функция enumerate. Перебор нескольких значений/Задача 3. Универсальная программа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.4 Перебор ключей и значений в словаре. Метод items/Задача 1. Кризис миновал.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.4 Перебор ключей и значений в словаре. Метод items/Задача 2. Сервер.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.4 Перебор ключей и значений в словаре. Метод items/Задача 3. В одну строчку.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.5 Составные ключи/Задача 1. Паспортные данные.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20.5 Составные ключи/Задача 2. Контакты 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673504747795</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit">
+      <created>1673511439827</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1673511439827</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
