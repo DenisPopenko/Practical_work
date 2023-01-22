@@ -5,17 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/20.2 Кортежи/Задача 1. Создание кортежей.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.2 Кортежи/Задача 2. Цилиндр.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.2 Кортежи/Задача 3. Неправильный код.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.3 Функция enumerate. Перебор нескольких значений/Задача 1. Саботаж!.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.3 Функция enumerate. Перебор нескольких значений/Задача 2. Словари из списков.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.3 Функция enumerate. Перебор нескольких значений/Задача 3. Универсальная программа.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.4 Перебор ключей и значений в словаре. Метод items/Задача 1. Кризис миновал.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.4 Перебор ключей и значений в словаре. Метод items/Задача 2. Сервер.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.4 Перебор ключей и значений в словаре. Метод items/Задача 3. В одну строчку.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.5 Составные ключи/Задача 1. Паспортные данные.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.5 Составные ключи/Задача 2. Контакты 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.2 Рекурсия/Задача 1. Challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.2 Рекурсия/Задача 2. Степень числа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.2 Рекурсия/Задача 3. Поиск элемента.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21.4 Передача изменяемых и неизменяемых данных в функцию/Задача 1. Ошибка.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practical_work",
+    "last_opened_file_path": "D:/skillbox55/Practical_work2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
