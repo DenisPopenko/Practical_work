@@ -1,13 +1,8 @@
-# num = int(input('Введите num: '))
-def sum_range(n, k = 0):
-    k += 1
-    if k == n:
-        return n
-    return sum_range(k)
+def sum_range(n):
+    if n <= 0:
+        return
+    sum_range(n - 1)
+    print(n)
 
-
-
-print(sum_range(10))
-
-# for i in range(1, 11):
-#     print(i)
+num = int(input('Введите num: '))
+sum_range(num)
