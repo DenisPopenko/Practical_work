@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/24.2 Классы/Задача 1. Машина.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.2 Классы/Задача 2. Однотипные объекты.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.3 Методы класса, аргумент self/Задача 1. Машина 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.3 Методы класса, аргумент self/Задача 2. Семья.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.3 Обработка исключений операторы else, finally/Задача 1. Простая программа.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.3 Обработка исключений операторы else, finally/Задача 2. Старая задача.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.4 Вызов исключений оператор raise/Задача 1. Имена.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/23.4 Вызов исключений оператор raise/Задача 2. Логирование.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_01_2023_14_42_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_01_2023_14_42__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +58,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practical_work",
+    "last_opened_file_path": "D:/skillbox/dpo_python_basic",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -145,14 +144,7 @@
       <option name="project" value="LOCAL" />
       <updated>1674395401609</updated>
     </task>
-    <task id="LOCAL-00008" summary="Initial commit">
-      <created>1675421788720</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1675421788720</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

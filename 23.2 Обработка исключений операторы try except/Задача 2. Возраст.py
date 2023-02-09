@@ -22,7 +22,7 @@ file_result = None
 
 try:
     file_ages = open("ages.txt", "r", encoding="utf8")
-    file_result = open("result.txt", "w", encoding="utf8")
+    file_result = open("result.txt", "x", encoding="utf8")
     # режим 'x' - это эксклюзивное создание, бросается исключение FileExistsError, если файл уже существует.
 except (FileExistsError, PermissionError) as exc:  # названия исключений можно группировать в кортежи
     print("Поймано исключение: ", exc, type(exc))
