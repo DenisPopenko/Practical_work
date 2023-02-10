@@ -6,7 +6,7 @@ for sym in file:
     else:
         len_str = len(sym)
     if len_str < 3:
-        raise RuntimeError('Имя менее 2 символов')
+        raise RuntimeError('Имя менее 3 символов')
     summ += len_str
 file.close()
 print(summ)

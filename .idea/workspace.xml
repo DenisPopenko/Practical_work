@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/24.4 Конструктор __init__ и работа с несколькими классами/Задача 1. Машина 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.4 Конструктор __init__ и работа с несколькими классами/Задача 2. Координаты точки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.4 Конструктор __init__ и работа с несколькими классами/Задача 3. Весёлая ферма.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/23.4 Вызов исключений оператор raise/Задача 1. Имена.py" beforeDir="false" afterPath="$PROJECT_DIR$/23.4 Вызов исключений оператор raise/Задача 1. Имена.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/24.4 Конструктор __init__ и работа с несколькими классами/Задача 3. Весёлая ферма.py" beforeDir="false" afterPath="$PROJECT_DIR$/24.4 Конструктор __init__ и работа с несколькими классами/Задача 3. Весёлая ферма.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,15 +55,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practical_work",
+    "last_opened_file_path": "D:/skillbox55/Practical_work2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Practical_work\24.4 Конструктор __init__ и работа с несколькими классами" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="Задача 1. Улучшенная лингвистика 2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Практические_работы" />
