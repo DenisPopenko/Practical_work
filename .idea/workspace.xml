@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/25.2 Инкапсуляция и сокрытие данных. Геттеры и сеттеры/Задача 1. Координаты точки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2 Инкапсуляция и сокрытие данных. Геттеры и сеттеры/Задача 2. Человек.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 25.3 Наследование/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 25.3 Наследование/Задача 1. Корабли.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 25.3 Наследование/Задача 2. Роботы.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ 25.3 Наследование/Задача 3. Кастомные исключения.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,15 +57,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practical_work",
+    "last_opened_file_path": "D:/skillbox/dpo_python_basic",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Practical_work\24.4 Конструктор __init__ и работа с несколькими классами" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="Задача 1. Улучшенная лингвистика 2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Практические_работы" />
@@ -146,14 +143,7 @@
       <option name="project" value="LOCAL" />
       <updated>1674395401609</updated>
     </task>
-    <task id="LOCAL-00008" summary="Initial commit">
-      <created>1676027089371</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1676027089371</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
