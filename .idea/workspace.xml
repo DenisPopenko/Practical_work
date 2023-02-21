@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/25.2 Инкапсуляция и сокрытие данных. Геттеры и сеттеры/Задача 1. Координаты точки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2 Инкапсуляция и сокрытие данных. Геттеры и сеттеры/Задача 2. Человек.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 1. Юниты.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 1. Юниты.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 2. Полёт.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 2. Полёт.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +50,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practical_work",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Practical_work&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Practical_work\24.4 Конструктор __init__ и работа с несколькими классами" />
@@ -153,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676027089371</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1676630574172</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676630574172</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
