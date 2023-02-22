@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 1. Юниты.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 1. Юниты.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 2. Полёт.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 2. Полёт.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676630574172</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1677064670204</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677064670204</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
