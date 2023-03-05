@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/25.2 Инкапсуляция и сокрытие данных. Геттеры и сеттеры/Задача 1. Координаты точки.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.2 Инкапсуляция и сокрытие данных. Геттеры и сеттеры/Задача 2. Человек.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.4 Реализация итераторов/Задача 1. Бесконечный итератор.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.4 Реализация итераторов/Задача 2. Случайная сумма.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Practical_work",
+    "last_opened_file_path": "D:/skillbox55/Practical_work2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
