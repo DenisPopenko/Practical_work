@@ -4,6 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;25.4 Полиморфизм/Задача 1. Юниты.py&#10;#&#9;25.4 Полиморфизм/Задача 2. Полёт.py">
+      <change afterPath="$PROJECT_DIR$/26.2 Итераторы/Задача 1. Свой for (ну почти).py" afterDir="false" />
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
       <change afterPath="$PROJECT_DIR$/26.4 Реализация итераторов/Задача 1. Бесконечный итератор.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/26.4 Реализация итераторов/Задача 2. Случайная сумма.py" afterDir="false" />
@@ -50,6 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/Practical_work",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -153,11 +162,34 @@
       <option name="project" value="LOCAL" />
       <updated>1676027089371</updated>
     </task>
+    <task id="LOCAL-00009" summary="Initial commit">
+      <created>1676630574172</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676630574172</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial commit">
+      <created>1677064670204</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1677064670204</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;25.4 Полиморфизм/Задача 1. Юниты.py&#10;#&#9;25.4 Полиморфизм/Задача 2. Полёт.py">
+      <created>1677121594374</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1677121594374</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;25.4 Полиморфизм/Задача 1. Юниты.py&#10;#&#9;25.4 Полиморфизм/Задача 2. Полёт.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;25.4 Полиморфизм/Задача 1. Юниты.py&#10;#&#9;25.4 Полиморфизм/Задача 2. Полёт.py" />
   </component>
 </project>
