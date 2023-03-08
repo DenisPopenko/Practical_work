@@ -7,9 +7,13 @@
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;25.4 Полиморфизм/Задача 1. Юниты.py&#10;#&#9;25.4 Полиморфизм/Задача 2. Полёт.py">
       <change afterPath="$PROJECT_DIR$/26.2 Итераторы/Задача 1. Свой for (ну почти).py" afterDir="false" />
     <list default="true" id="9cba7bd3-3503-441c-a18b-d72e3b11770f" name="Changes" comment="Initial commit">
+<<<<<<<<< Temporary merge branch 1
+=========
       <change afterPath="$PROJECT_DIR$/26.4 Реализация итераторов/Задача 1. Бесконечный итератор.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/26.4 Реализация итераторов/Задача 2. Случайная сумма.py" afterDir="false" />
+>>>>>>>>> Temporary merge branch 2
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 2. Полёт.py" beforeDir="false" afterPath="$PROJECT_DIR$/25.4 Полиморфизм/Задача 2. Полёт.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,6 +188,7 @@
       <updated>1677121594374</updated>
     </task>
     <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="9" />
     <option name="localTasksCounter" value="9" />
     <servers />
   </component>
