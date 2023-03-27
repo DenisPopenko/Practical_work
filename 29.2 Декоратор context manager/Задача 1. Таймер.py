@@ -1,18 +1,14 @@
-from contextlib import contextmanager
 import time
-
+from contextlib import contextmanager
+from collections.abc import Iterator
 
 @contextmanager
-def timer():
+def timer() -> Iterator:
     start = time.time()
     try:
         yield
     finally:
-        end = time.time()
-        print(end - start)
+        print(time.time() - start)
 
-
-def g(h):
-    return h ** 3
-
-timer(g(5))
+with timer() as t:
+    val = 100 * 100 ** 1000000
